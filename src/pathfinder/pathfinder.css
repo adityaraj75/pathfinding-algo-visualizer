@@ -1,0 +1,19 @@
+.grid {
+	padding: 100px 0 75px;
+}
+
+.node-row{
+	height: 25px;
+}
+
+.nav-item{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.gridContainer{
+	width: 100%;
+	height: 100%;
+	background-color: #4608C5;
+}
+
